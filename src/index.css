@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.background1{
+  background-image: image();
+  font-family: 'Montserrat', sans-serif;;
+  display: flex;
+}
+
+/* .nama{
+  display: flex;
+} */
+.background2{
+  background-image: image();
+  font-family: 'Montserrat', sans-serif;;
+}
+.select1{
+  margin-right: 500px
+}
+
+.tulisan{
+  font-family: 'Montserrat', sans-serif;
+}
+.general{
+  color: blue;
+}
+.contact{
+  color: black
+}
+.coba{
+  display: flex;
+}
+/* .percobaan{
+  background-color: burlywood;
+  width: 500px;
+  height: 500px
+} */
